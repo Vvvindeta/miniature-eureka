@@ -1,2 +1,13 @@
 ﻿  ConsoleApplication1.cpp
-  ConsoleApplication1.vcxproj -> E:\programming\project\c++\Project1\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(428,43): error C2248: Keeper::objectCount: невозможно обратиться к private член, объявленному в классе "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(301,9): message : см. объявление "Keeper::objectCount"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(297,7): message : см. объявление "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(429,86): error C2248: Keeper::objects: невозможно обратиться к private член, объявленному в классе "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(300,16): message : см. объявление "Keeper::objects"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(297,7): message : см. объявление "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(430,60): error C2248: Keeper::objects: невозможно обратиться к private член, объявленному в классе "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(300,16): message : см. объявление "Keeper::objects"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(297,7): message : см. объявление "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(432,27): error C2248: Keeper::objects: невозможно обратиться к private член, объявленному в классе "Keeper"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(300,16): message : см. объявление "Keeper::objects"
+E:\programming\project\c++\Project1\ConsoleApplication1\ConsoleApplication1\ConsoleApplication1.cpp(297,7): message : см. объявление "Keeper"

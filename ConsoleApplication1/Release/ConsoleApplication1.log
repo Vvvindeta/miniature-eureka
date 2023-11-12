@@ -1,0 +1,6 @@
+﻿  ConsoleApplication1.cpp
+  Создание кода
+  Previous IPDB and IOBJ mismatch, fall back to full compilation.
+  All 128 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  ConsoleApplication1.vcxproj -> E:\programming\project\c++\Project1\ConsoleApplication1\Release\ConsoleApplication1.exe
