@@ -129,12 +129,14 @@
   <ItemGroup>
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="DequeContainer.cpp" />
+    <ClCompile Include="Keeper.cpp" />
     <ClCompile Include="ListContainer.cpp" />
     <ClCompile Include="StackContainer.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Container.h" />
     <ClInclude Include="DequeContainer.h" />
+    <ClInclude Include="Keeper.h" />
     <ClInclude Include="ListContainer.h" />
     <ClInclude Include="StackContainer.h" />
   </ItemGroup>
